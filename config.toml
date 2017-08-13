@@ -2,3 +2,23 @@ languageCode = "en-us"
 title = "Salah Messaoud"
 baseURL = "http://salahmessaoud.github.io/"
 theme = "redlounge"
+
+[params]
+	sidebartitle = "Salah Messaoud"
+	sidebartagline = "Drupal evangelist"
+  [[menu.main]]
+      name = "Blog"
+      url = "/posts"
+
+  [[menu.social]]
+      pre = "<i class='fa fa-twitter'></i>"
+      url = "http://www.twitter.com/salahmessaoud"
+      identifier = "twitter"
+  [[menu.social]]
+      pre = "<i class='fa fa-github'></i>"
+      url = "https://github.com/SalahMessaoud"
+      identifier = "github"
+
+  [[menu.footer]]
+      name = "Contact"
+      url = "/posts"
