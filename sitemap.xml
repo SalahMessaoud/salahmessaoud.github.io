@@ -1,9 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://salahmessaoud.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/tags/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/categories/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/categories/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://salahmessaoud.github.io/post/first-post/</loc>
   </url>
   
 </urlset>
