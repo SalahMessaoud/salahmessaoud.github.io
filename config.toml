@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Salah Messaoud"
-baseURL = "https://salahmessaoud.github.io/"
+baseURL = "salahmessaoud.github.io"
 theme = "redlounge"
 
 [params]
